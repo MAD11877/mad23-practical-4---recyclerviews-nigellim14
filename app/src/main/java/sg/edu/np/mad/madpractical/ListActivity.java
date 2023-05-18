@@ -1,4 +1,5 @@
 package sg.edu.np.mad.madpractical;
+
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;
@@ -15,9 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-
 public class ListActivity extends AppCompatActivity {
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -58,6 +57,7 @@ public class ListActivity extends AppCompatActivity {
             userList.add(user1);
         }
 
+        /*Replace imageview with recyclerview*/
         RecyclerView recyclerView = findViewById(R.id.recycleView);
         UsersAdapter adapter = new UsersAdapter(this, userList);
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this);
