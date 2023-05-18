@@ -22,7 +22,7 @@
 15-->[androidx.core:core:1.9.0] C:\Users\avantus2\.gradle\caches\transforms-3\36d2bebf921bf3e653b8992b98e79081\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:5:5-27:19
+17-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:5:5-32:19
 18        android:allowBackup="true"
 18-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -44,26 +44,26 @@
 28        android:theme="@style/Theme.MADPractical" >
 28-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:13:9-50
 29        <activity
-29-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:15:9-17:39
-30            android:name="sg.edu.np.mad.madpractical.ListActivity"
-30-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:16:13-41
-31            android:exported="true" />
-31-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:17:13-36
+29-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:18:9-20:40
+30            android:name="sg.edu.np.mad.madpractical.MessageGroup"
+30-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:19:13-41
+31            android:exported="false" />
+31-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:20:13-37
 32        <activity
-32-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:18:9-26:20
-33            android:name="sg.edu.np.mad.madpractical.MainActivity"
-33-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:19:13-41
+32-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:23:9-31:20
+33            android:name="sg.edu.np.mad.madpractical.ListActivity"
+33-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:24:13-41
 34            android:exported="true" >
-34-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:20:13-36
+34-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:25:13-36
 35            <intent-filter>
-35-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:21:13-25:29
+35-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:26:13-30:29
 36                <action android:name="android.intent.action.MAIN" />
-36-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:22:17-69
-36-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:22:25-66
+36-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:27:17-69
+36-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:27:25-66
 37
 38                <category android:name="android.intent.category.LAUNCHER" />
-38-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:24:17-77
-38-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:24:27-74
+38-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:29:17-77
+38-->C:\Users\avantus2\AndroidStudioProjects\mad23-practical-4---recyclerviews-nigellim14\app\src\main\AndroidManifest.xml:29:27-74
 39            </intent-filter>
 40        </activity>
 41
